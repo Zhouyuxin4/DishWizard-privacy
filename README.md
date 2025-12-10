@@ -1,1 +1,1 @@
-# healthsnap-privacy
+# DishWizard-privacy
